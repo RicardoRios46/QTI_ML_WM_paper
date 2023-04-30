@@ -21,6 +21,6 @@ Auxiliary functions:
 - wrangle_data.py
 
 Data:
-- data.csv: Initial data.
-- data_regional_classified.csv: Composed only of data of the regional nerves. Last solumns contian the results of classification.
-- rf.sav: The random forest trained model.
+- data.csv: Proccesed dMRI data. Columns are QTI features and labels/categories for each voxel in the study. RAW dMRI data is avaiable at https://osf.io/b2k4z/
+- data_regional_classified.csv: Composed only of data of the regional nerves. Last columns contain the results of ML classification.
+- rf.sav: The trained random forest model. Saved with joblib.
