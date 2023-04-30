@@ -9,7 +9,8 @@ Dependencies to run this project are on the requirements.yml file. You can use c
 Main scripts:
 - **rf_tunning_featureAnalysis.py** : Load data.csv, wrangles the data, train a Random Forest model and save it on rf.sav. It also extracts relevants features on the random forest.
 - **model_predict.py**: Use the model on rf.sav to classify the regional data on data.csv. Saves results on data_regional_classified.csv.
-Both function plots some figures.
+
+Both functions plot auxiliary figures.
 
 Auxiliary functions:
 - rf_auxililary_functions.py
