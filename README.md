@@ -3,7 +3,10 @@ Code for the Machine learning pipeline used in "Differentiation of white matter 
 Ricardo Rios-Carrillo, Alonso Ramírez-Manzanares, Hiram Luna-Munguía, Mirelta Regalado, Luis Concha
  (bioRxiv 2023.02.17.529024; doi: https://doi.org/10.1101/2023.02.17.529024 )
 
-Dependencies to run this project are on the requirements.yml file. You can use conda to create an enviroment to run the scripts (https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+Dependencies to run this project are on the requirements.yml file.
+[Use conda to create an enviroment from requeriments.yml](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+
+
 
 ### Repository contents
 Main scripts:
